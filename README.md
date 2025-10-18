@@ -8,8 +8,8 @@ _Aaditya L. Kachhadiya (2025), “Deceptron: Learned Local Inverses for Fast and
 
 ## Contents
 - `ml4ps_deceptron.ipynb` - core 1D Heat and Oscillator experiments; includes RJCP diagnostic  
-- `ml4ps_DeceptronNet_v0.ipynb` - DeceptronNet v0 model for 2D tasks; includes L-BFGS for comparison  
-- `post_submission_analysis.ipynb` - additional diagnostics and Kodak24 unrolled inverse task  
+- `ml4ps_DeceptronNet_v0.ipynb` - DeceptronNet v0 model for 2D tasks  
+- `post_submission_analysis.ipynb` - additional diagnostics and Kodak24 unrolled inverse task; includes L-BFGS for comparison
 - `repro_manifest.json` - reproducibility manifest  
 - `requirements.txt` - dependencies for execution and reproducibility  
 
